@@ -1,4 +1,4 @@
-# Project Description: Parkinson's Disease Classification 
+#Parkinson's Disease Classification 
 
 ## Overview
 
