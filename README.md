@@ -1,5 +1,5 @@
 # Parkinson's Disease Classification 
-![logo](parkinson.png)
+![logo](parkinson.jpg)
 ## Overview
 
 This project focuses on the classification and analysis of Parkinson's disease (PD) using machine learning techniques. Parkinson's disease is a neurodegenerative disorder that affects a person's movement, causing symptoms such as tremors, bradykinesia (slowness of movement), and muscle rigidity. Early diagnosis and accurate classification of PD are essential for effective treatment and management of the disease. In this project, we use a dataset containing various voice features to build and evaluate machine learning models for PD classification.
